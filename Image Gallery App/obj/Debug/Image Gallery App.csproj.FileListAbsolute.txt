@@ -1,0 +1,24 @@
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\Image Gallery App.exe.config
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\Image Gallery App.exe
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\Image Gallery App.pdb
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.Win.C1DX.4.5.2.dll
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.Win.C1DX.4.5.2.xml
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image_Gallery_App.ImageGallery.resources
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image_Gallery_App.Properties.Resources.resources
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.csproj.CopyComplete
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.exe
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.pdb
+C:\Users\Dell\source\repos\Image Gallery App\Image Gallery App\obj\Debug\Image Gallery App.exe.licenses
